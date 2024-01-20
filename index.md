@@ -3,14 +3,10 @@ layout: home
 comments: false
 ---
 
-Hi, I'm a [Jekyll](https://jekyllrb.com/) theme. I am particularly great for a writer's blog or personal webpage. You can also use collections to hold your other writing projects, such as poetry. In this paragraph, you can provide some information about yourself. Below, your 3 most recent posts are listed. 
+Finally my official first ever piece of text written over internet, and it's bewildering to think about the amount of time I have spent finding the right time, place, and resources to get started. I always had so much to tell, possibly because of wide range of experiences i have had due to my sharp observation and over-thinking skills :) .I believe this to be the reason for me to have a unique perspective on almost all the problems I have faced in life till now. The only question that had stopped me from shatring my views till now is: **What Value Could I Add?**
 
-This is a demo. You can find the source code and documentation [here](https://github.com/lingxz/sparrow). 
+I felt that almost everything that I can share is out there already, but slowly I have realized that the value lies not only in the content but also the perspective it brings in. This finally convinced me to start writing.
 
-Placeholder bird logo is made by [Freepik](http://www.freepik.com) from [Flaticon](http://www.flaticon.com) and licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/).
+Although I am a trained engineer, I have a special fondness for thinking about life, people, and their problems from philosophical and psychological angles.
 
-
-
-
-
-
+Thanks for visiting. Keep smiling :)
