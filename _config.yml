@@ -7,7 +7,7 @@ description              : "My perspective on life, as i navigate it."
 favicon                  : "/assets/images/bird.png"
 avatar                   : "/assets/images/bird.png"
 url                      : "https://nazi-pikachu.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/half-engineers" # the subpath of your site, e.g. "/blog" leave blank if no subpath
+baseurl                  : "/half-engineered" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 # Site Author
 author:
