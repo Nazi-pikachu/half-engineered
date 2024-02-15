@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Do not stand at my grave and weep
 ---
 
@@ -15,4 +15,4 @@ I am the soft stars that shine at night.
 Do not stand at my grave and cry,  
 I am not there; I did not die.  
 
-<cite>Mary Elizabeth Frye</cite>
+<cite>Mary Elizabeth Frye</cite> -->

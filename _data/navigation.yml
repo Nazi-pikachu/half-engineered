@@ -4,14 +4,14 @@ main:
     url: /
   - title: "blog"
     url: /blog
-  - title: "poetry"
-    url: /poetry
-  - title: "submenu"
-    url: /
-    children: 
-      - title: "item 1"
-        url: /404
-      - title: "item 2"
-        url: /404
-  - title: "subscribe"
-    url: /feed.xml
+  # - title: "poetry"
+  #   url: /poetry
+  # - title: "essays"
+  #   url: /essays
+  # - title: "Others"
+  #   url: /
+  #   children: 
+  #     - title: "Books"
+  #       url: /blog
+  #     - title: "Travel"
+  #       url: /blog
