@@ -1,0 +1,11 @@
+---
+layout: page
+title: "Business"
+permalink: /business/
+subtitle: Looking for ways that pay my bills forever!
+---
+
+{% for post in site.essays reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+{% include paginator.html %}

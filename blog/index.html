@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Blog
-subtitle: WIP
+title: Travel
+subtitle: Main udna chahta hoon, daudna chahta hoon, girna bhi chahta hoon, bus rukna nahi chahta :)
+permalink: /blog/
 pagination:
   enabled: true
 ---
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 	{% include post-entry.html %}
 {% endfor %}
 

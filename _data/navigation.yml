@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "home"
+  - title: "Home"
     url: /
-  - title: "blog"
+  - title: "Travel"
     url: /blog
-  # - title: "poetry"
-  #   url: /poetry
-  # - title: "essays"
-  #   url: /essays
+  - title: "Books"
+    url: /books
+  - title: "Business"
+    url: /business
   # - title: "Others"
   #   url: /
   #   children: 

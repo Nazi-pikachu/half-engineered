@@ -1,0 +1,11 @@
+---
+layout: page
+title: "Books"
+permalink: /books/
+subtitle: Exploring the inner world
+---
+
+{% for post in site.essays reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+{% include paginator.html %}
