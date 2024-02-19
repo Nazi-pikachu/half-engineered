@@ -6,7 +6,7 @@ title_separator          : "-"
 description              : "My perspective on life, as I navigate it."
 favicon                  : "/assets/images/bird.png"
 avatar                   : "/assets/images/bird.png"
-url                      : "https://nazi-pikachu.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://nazi-pikachu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/half-engineered" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 # Site Author
