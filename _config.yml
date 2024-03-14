@@ -73,7 +73,7 @@ permalink: /blog/:title/
 
 pagination:
   enabled: true
-  per_page: 2
+  per_page: 5
   permalink: "/page:num/"
   collection: "posts"
   trail: 
